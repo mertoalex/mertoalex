@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm mertoalex, my hobbies is writing codes and use linux oses (write bash commands to make command bc I use linux)
+
 <!--
 **mertoalex/mertoalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
