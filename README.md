@@ -2,8 +2,7 @@
 
 <!--I'm mertoalex, my hobbies is writing codes and use linux oses (write bash commands to make command bc I use linux)
 #I hate my english level-->
-🫀Linux
-
+🫀Linux <br>
 furry 🦔
 
 <!--a random meme for you (refresh the page to another meme):
