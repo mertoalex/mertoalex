@@ -2,9 +2,12 @@
 
 <!--I'm mertoalex, my hobbies is writing codes and use linux oses (write bash commands to make command bc I use linux)
 #I hate my english level-->
+🫀Linux
+furry 🦔
 
-a random meme for you (refresh the page to another meme):
+<!--a random meme for you (refresh the page to another meme):
 [<img src='https://random-memer.herokuapp.com/' alt="Please refresh the page if the meme doesn't show up."/>](https://random-memer.herokuapp.com/)
+wth-->
 <!--
 **mertoalex/mertoalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
