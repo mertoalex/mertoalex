@@ -3,7 +3,7 @@
 <!--I'm mertoalex, my hobbies is writing codes and use linux oses (write bash commands to make command bc I use linux)
 #I hate my english level-->
 🫀Linux <br>
-furry 🦔
+not furry but want's to be furry 🦔
 
 <!--a random meme for you (refresh the page to another meme):
 [<img src='https://random-memer.herokuapp.com/' alt="Please refresh the page if the meme doesn't show up."/>](https://random-memer.herokuapp.com/)
