@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## NOTE: I don't use github anymore, I mean I just use github to make pull requests under "issues" section, I'm not gonna make any repo under this AI company's site anymore.
+
 <!--I'm mertoalex, my hobbies is writing codes and use linux oses (write bash commands to make command bc I use linux)
 #I hate my english level-->
 🫀Linux <br>
